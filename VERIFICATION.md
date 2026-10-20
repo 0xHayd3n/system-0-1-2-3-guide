@@ -38,3 +38,13 @@ Preparation results:
 - The authenticated owner's repository inventory was checked twice before creation. No matching System 0/1/2/3 or quad-process guide was found. Only this v3 guide was prepared for publication.
 
 None of these checks confirms the empirical validity of the paper.
+
+## Publication checks
+
+The public repository was created under `0xHayd3n/system-0-1-2-3-guide`, with `main` as its default branch, the versioned paper record as its homepage, and descriptive research topics.
+
+Anonymous GitHub API requests confirmed `private: false` and `visibility: public`. The remote tree contained exactly the 22 tracked files. All 22 files were retrieved without credentials from public raw URLs and matched the local committed text after line-ending normalization. Remote `main` matched the local commit. No PDF, paper extraction, original figure, or archive was present.
+
+The [initial publication workflow](https://github.com/0xHayd3n/system-0-1-2-3-guide/actions/runs/39386342559) completed successfully. It ran the same offline integrity checker on GitHub. Later edits run that workflow again; consult the repository's current check status for the latest commit.
+
+This task created one repository for the exact updated v3 source. It did not create or publish an earlier-version repository. No requested action remains blocked.
