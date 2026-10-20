@@ -1,0 +1,121 @@
+{
+  "schema_version": "1.0.0",
+  "title": "System 0/1/2/3: Quad-process theory for multi-timescale embodied collective cognitive systems",
+  "authors": [
+    {
+      "name": "Tadahiro Taniguchi",
+      "given": "Tadahiro",
+      "family": "Taniguchi"
+    },
+    {
+      "name": "Yasushi Hirai",
+      "given": "Yasushi",
+      "family": "Hirai"
+    },
+    {
+      "name": "Masahiro Suzuki",
+      "given": "Masahiro",
+      "family": "Suzuki"
+    },
+    {
+      "name": "Shingo Murata",
+      "given": "Shingo",
+      "family": "Murata"
+    },
+    {
+      "name": "Takato Horii",
+      "given": "Takato",
+      "family": "Horii"
+    },
+    {
+      "name": "Kazutoshi Tanaka",
+      "given": "Kazutoshi",
+      "family": "Tanaka"
+    }
+  ],
+  "arxiv": {
+    "id": "2503.06138",
+    "version": "v3",
+    "version_date": "2025-07-16",
+    "version_timestamp_utc": "2025-07-16T03:48:35Z",
+    "record_url": "https://arxiv.org/abs/2503.06138v3",
+    "pdf_url": "https://arxiv.org/pdf/2503.06138v3",
+    "html_url": "https://arxiv.org/html/2503.06138v3"
+  },
+  "doi": "10.48550/arXiv.2503.06138",
+  "doi_scope": "Work-level arXiv DOI; use versioned arXiv URLs to identify the v3 source.",
+  "year": 2025,
+  "page_count": 41,
+  "page_convention": "All guide pages are one-based PDF positions. Main text and bibliography: PDF page = printed page +2. Front matter differs.",
+  "subjects": [
+    "cs.AI",
+    "cs.RO",
+    "q-bio.NC"
+  ],
+  "publication_status": {
+    "record_comment": "Under review",
+    "checked_on": "2026-10-20",
+    "caution": "This is the arXiv record comment, not a claim of journal peer-review acceptance."
+  },
+  "contribution_type": "Conceptual theoretical synthesis and research agenda with CPC formalization and reviewed prior work; no new end-to-end empirical validation of the quad-process framework.",
+  "license": {
+    "name": "arXiv non-exclusive distribution license",
+    "spdx": null,
+    "url": "https://arxiv.org/licenses/nonexclusive-distrib/1.0/license.html",
+    "checked_on": "2026-10-20",
+    "reuse_caution": "Distribution permission to arXiv is not a CC BY license or a blanket downstream redistribution grant."
+  },
+  "provenance": {
+    "primary_source": "supplied_library_attachment_text",
+    "attachment_filename": "2503.06138v3.pdf",
+    "attachment_size_bytes_reported_by_library": 4456971,
+    "attachment_content_read": "All 1840 extracted lines, covering all 41 PDF pages, read through Library in two complete windows.",
+    "attachment_binary_downloaded": false,
+    "attachment_binary_equality_verified": false,
+    "official_pdf_used_for": "Private visual cross-check of all five figures, Table 1 and Eqs.1-8; exact version and page count confirmed.",
+    "official_pdf_url": "https://arxiv.org/pdf/2503.06138v3",
+    "official_pdf_sha256": "731e2ce3218a78e77c9f91b863d57ddc13fd722ab17747da8525263bbdd4cf4e",
+    "visual_pdf_pages_checked": [
+      9,
+      10,
+      15,
+      17,
+      18,
+      20,
+      22
+    ],
+    "checked_on": "2026-10-20",
+    "limits": [
+      "No binary comparison between supplied attachment and official PDF.",
+      "Not every cited prior study was independently retrieved or audited.",
+      "The source paper PDF, extracted text and figures are not redistributed."
+    ],
+    "notation_observation": "Official v3 PDF page18 visibly contains incomplete q(o |) factor in Eq4. Objective conventions are discussed as companion analysis, not an author erratum."
+  },
+  "companion": {
+    "repository_url": "https://github.com/0xHayd3n/system-0-1-2-3-guide",
+    "maintainer": "0xHayd3n",
+    "prepared_with": "AI assistance",
+    "prepared_on": "2026-10-20",
+    "version_scope": "v3 only",
+    "original_material_license": "CC-BY-4.0",
+    "experiments_run": false,
+    "implementation_reproduced": false,
+    "theory_empirically_validated": false,
+    "official_affiliation": false,
+    "author_endorsement_claimed": false,
+    "paper_pdf_included": false
+  },
+  "source_inventory": {
+    "numbered_sections": 6,
+    "figures": 5,
+    "tables": 1,
+    "numbered_equations": 8,
+    "appendices": 0,
+    "references_pdf_pages": [
+      31,
+      41
+    ]
+  },
+  "related_material_policy": "Prior works are summarized as reviewed by the pinned source, not independently verified evidence or additional primary scope."
+}

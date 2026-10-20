@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "checked_on": "2026-10-20",
+  "sources": [
+    {
+      "id": "attachment-text",
+      "kind": "supplied_attachment",
+      "title": "2503.06138v3.pdf supplied Library attachment",
+      "url": "https://arxiv.org/abs/2503.06138v3",
+      "url_role": "Public identifier for the work, not a URL to the private attachment.",
+      "use": "Complete source text read from the supplied attachment in Library, all41 pages.",
+      "limit": "Binary not materialized; no byte equality established."
+    },
+    {
+      "id": "official-record",
+      "kind": "official_metadata",
+      "title": "Exact v3 arXiv record",
+      "url": "https://arxiv.org/abs/2503.06138v3",
+      "use": "Title, six authors, version date/time, subjects, under-review comment, DOI and license link."
+    },
+    {
+      "id": "official-pdf",
+      "kind": "official_primary_source",
+      "title": "Exact official v3 PDF",
+      "url": "https://arxiv.org/pdf/2503.06138v3",
+      "use": "Visual inspection of pages9,10,15,17,18,20,22; private download digest recorded in paper.json.",
+      "redistributed": false
+    },
+    {
+      "id": "official-html",
+      "kind": "official_alternative_rendering",
+      "title": "Experimental v3 HTML",
+      "url": "https://arxiv.org/html/2503.06138v3",
+      "use": "Public alternate reader link; PDF pagination is authoritative for guide citations."
+    },
+    {
+      "id": "paper-license",
+      "kind": "rights",
+      "title": "arXiv non-exclusive distribution license",
+      "url": "https://arxiv.org/licenses/nonexclusive-distrib/1.0/license.html",
+      "use": "Source redistribution boundary; does not license original guide material."
+    },
+    {
+      "id": "format-reference",
+      "kind": "companion_format_reference",
+      "title": "0xHayd3n Harness Learning Guide",
+      "url": "https://github.com/0xHayd3n/harness-learning-guide",
+      "use": "Repository structure and adapted offline-checker approach; not evidence about System0/1/2/3."
+    }
+  ],
+  "excluded_evidence": [
+    "No independently reproduced experiments.",
+    "No independently audited full bibliography.",
+    "No prior paper version used as guide scope."
+  ]
+}

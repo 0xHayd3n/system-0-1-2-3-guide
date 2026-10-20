@@ -1,0 +1,22 @@
+# System 0/1/2/3 Reading Guide
+
+Unofficial companion to arXiv:2503.06138v3, 16 July 2025. Theory and research agenda, not empirical validation or an implementation.
+
+Research authors: Tadahiro Taniguchi; Yasushi Hirai; Masahiro Suzuki; Shingo Murata; Takato Horii; Kazutoshi Tanaka. Maintainer: 0xHayd3n, with AI assistance; unaffiliated.
+
+- [Rules and grounding](AGENTS.md)
+- [Overview and routes](README.md)
+- [Concepts and background](docs/01-concepts-and-context.md)
+- [Embodiment and individual cognition](docs/02-embodiment-and-individual-cognition.md)
+- [CPC, variables, objective, notation cautions](docs/03-collective-predictive-coding.md)
+- [Time, memory, canalization](docs/04-time-memory-and-canalization.md)
+- [Implications, limits, questions](docs/05-implications-limitations-and-questions.md)
+- [Complete paper map](docs/06-paper-map.md)
+- [Paper metadata](metadata/paper.json)
+- [Typed claim index](metadata/claims.json)
+- [Source register](metadata/sources.json)
+- [Verification](VERIFICATION.md)
+- [Research credit and rights](ATTRIBUTION.md)
+- [Versioned primary source](https://arxiv.org/pdf/2503.06138v3)
+
+Always cite section and one-based PDF page. Separate proposal, formalization, philosophical interpretation, reviewed prior evidence, future prediction, and companion analysis. Keep all six authors and the v3 pin. Do not infer universal time cutoffs, proven collective consciousness, convergence for arbitrary societies, or new experimental results. Equation 4 is visibly incomplete; read the formalism cautions before deriving or coding.

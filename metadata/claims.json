@@ -1,0 +1,424 @@
+{
+  "schema_version": "1.0.0",
+  "paper_version": "2503.06138v3",
+  "page_convention": "one-based PDF",
+  "status": "Source-navigation index, not independent empirical evidence.",
+  "claims": [
+    {
+      "id": "QP01",
+      "kind": "theoretical_proposal",
+      "statement": "The paper extends dual-process framing with bodily System 0 and collective System 3.",
+      "scope": "Conceptual synthesis stated in the introduction.",
+      "caveat": "Not a measured demonstration that cognition has exactly four exhaustive systems.",
+      "sources": [
+        {
+          "section": "1",
+          "page": 4,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=4"
+        },
+        {
+          "section": "3.1",
+          "page": 15,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=15"
+        }
+      ]
+    },
+    {
+      "id": "QP02",
+      "kind": "background_summary",
+      "statement": "Morphology and passive dynamics can support adaptive behavior without explicit neural calculation.",
+      "scope": "Reviewed passive walking, soft manipulation and related physical systems.",
+      "caveat": "Prior studies are motivating examples; they are not new whole-framework experiments.",
+      "sources": [
+        {
+          "section": "2.2",
+          "page": 10,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=10"
+        },
+        {
+          "section": "2.2",
+          "page": 11,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=11"
+        }
+      ]
+    },
+    {
+      "id": "QP03",
+      "kind": "background_summary",
+      "statement": "Physical dynamics can transform inputs into states useful to a learned perceptual readout.",
+      "scope": "Physical reservoir computing and compliant sensor examples.",
+      "caveat": "A material transformation and a learned readout remain distinct contributions.",
+      "sources": [
+        {
+          "section": "2.2",
+          "page": 11,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=11"
+        }
+      ]
+    },
+    {
+      "id": "QP04",
+      "kind": "background_summary",
+      "statement": "The paper connects learned representations, symbolic methods and deliberative LLM workflows to Systems 1 and 2.",
+      "scope": "Review of existing AI methods.",
+      "caveat": "System 2-like behavior is a conceptual comparison, not proof of human cognition or reliability.",
+      "sources": [
+        {
+          "section": "2.1.1",
+          "page": 5,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=5"
+        },
+        {
+          "section": "2.1.1",
+          "page": 7,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=7"
+        }
+      ]
+    },
+    {
+      "id": "QP05",
+      "kind": "background_summary",
+      "statement": "RNNPB and MTRNN provide different constructive routes to temporal hierarchy.",
+      "scope": "RNNPB update-frequency discussion and MTRNN time constants.",
+      "caveat": "The reviewed models are not equivalent to a universal mechanism for every System 1/2 process.",
+      "sources": [
+        {
+          "section": "2.1.2",
+          "page": 8,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=8"
+        },
+        {
+          "section": "2.1.2",
+          "page": 9,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=9"
+        }
+      ]
+    },
+    {
+      "id": "QP06",
+      "kind": "background_summary",
+      "statement": "The background distinguishes collaboration using language from emergence and adaptation of language.",
+      "scope": "Multi-agent voting, debate and related methods versus emergent communication.",
+      "caveat": "A group exchanging fixed tokens does not establish evolving symbolic organization.",
+      "sources": [
+        {
+          "section": "2.3",
+          "page": 12,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=12"
+        },
+        {
+          "section": "2.3",
+          "page": 13,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=13"
+        }
+      ]
+    },
+    {
+      "id": "QP07",
+      "kind": "theoretical_proposal",
+      "statement": "System 3 concerns distributed social formation and use of external symbolic systems.",
+      "scope": "Languages, norms and institutions in the authors' conceptual hierarchy.",
+      "caveat": "It is not a fourth component wholly contained inside one individual brain.",
+      "sources": [
+        {
+          "section": "3.1",
+          "page": 16,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=16"
+        },
+        {
+          "section": "3.1",
+          "page": 17,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=17"
+        }
+      ]
+    },
+    {
+      "id": "QP08",
+      "kind": "formalization",
+      "statement": "CPC models symbol emergence as approximate inference using agents' distributed observations and internal representations.",
+      "scope": "Eqs.1-4 and the CPC hypothesis attributed to Taniguchi (2024).",
+      "caveat": "The factorization makes modeling assumptions; arbitrary societies are not shown to implement it.",
+      "sources": [
+        {
+          "section": "3.2",
+          "page": 17,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=17"
+        },
+        {
+          "section": "3.2",
+          "page": 18,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=18"
+        }
+      ]
+    },
+    {
+      "id": "QP09",
+      "kind": "formalization",
+      "statement": "The action-conditioned CPC extension includes embodied sensory observations and action sequences.",
+      "scope": "Group variables o, z and a indexed by participating agents.",
+      "caveat": "The paper assumes hierarchical FEP organization; it does not independently establish that assumption for every level.",
+      "sources": [
+        {
+          "section": "3.2",
+          "page": 18,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=18"
+        },
+        {
+          "section": "3.2",
+          "page": 19,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=19"
+        }
+      ]
+    },
+    {
+      "id": "QP10",
+      "kind": "formalization",
+      "statement": "Equation 8 labels collective regularization, individual prediction error and individual regularization.",
+      "scope": "Role-based reading of collective free energy.",
+      "caveat": "Implementation requires explicit averaging and fixed-observation conventions; Eq4 is visibly incomplete and Eq7/Eq8 entropy treatment needs care.",
+      "sources": [
+        {
+          "section": "3.2; Eqs.5-8",
+          "page": 18,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=18"
+        }
+      ]
+    },
+    {
+      "id": "QP11",
+      "kind": "theoretical_proposal",
+      "statement": "Decentralized learning and naming interactions are proposed to contribute to collective adaptation.",
+      "scope": "CPC interpretation with cited naming-game models.",
+      "caveat": "This paper does not prove convergence or empirical adequacy for arbitrary social systems.",
+      "sources": [
+        {
+          "section": "3.2",
+          "page": 19,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=19"
+        }
+      ]
+    },
+    {
+      "id": "QP12",
+      "kind": "theoretical_proposal",
+      "statement": "Communication is distinguished from longer-term symbol emergence.",
+      "scope": "Parallel between inference/learning and communication/symbol-system change.",
+      "caveat": "This distinction does not set universal timing cutoffs or prove every message changes the code.",
+      "sources": [
+        {
+          "section": "3.3",
+          "page": 20,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=20"
+        }
+      ]
+    },
+    {
+      "id": "QP13",
+      "kind": "open_question",
+      "statement": "Conscious information processing is distinguished from subjective experience; possible supra-conscious phenomena are hypothetical.",
+      "scope": "V3 clarification of Table1 and consciousness discussion.",
+      "caveat": "The source does not restrict phenomenal consciousness to System2 or demonstrate group phenomenal experience.",
+      "sources": [
+        {
+          "section": "3.3",
+          "page": 21,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=21"
+        },
+        {
+          "section": "5.2",
+          "page": 29,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=29"
+        }
+      ]
+    },
+    {
+      "id": "QP14",
+      "kind": "philosophical_interpretation",
+      "statement": "The authors separate temporal layers, landscape-formation time and width of the present window.",
+      "scope": "Three axes in Figure5 and Section4.1.",
+      "caveat": "Present-window width is not strictly another timescale; Figure5 memory layer3 is not automatically societal System3.",
+      "sources": [
+        {
+          "section": "4.1",
+          "page": 22,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=22"
+        },
+        {
+          "section": "4.1",
+          "page": 23,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=23"
+        }
+      ]
+    },
+    {
+      "id": "QP15",
+      "kind": "philosophical_interpretation",
+      "statement": "Motor memory and pure memory offer complementary resources for routine and flexible recognition.",
+      "scope": "Extended Bergsonian interpretation of automatic and attentive recognition.",
+      "caveat": "Analogies to procedural/episodic or machine memory do not establish identity or model consciousness.",
+      "sources": [
+        {
+          "section": "4.2",
+          "page": 23,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=23"
+        },
+        {
+          "section": "4.2",
+          "page": 24,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=24"
+        }
+      ]
+    },
+    {
+      "id": "QP16",
+      "kind": "philosophical_interpretation",
+      "statement": "Canalization is used to describe prior organization that makes later adaptive behavior easier.",
+      "scope": "Learned, bodily, environmental and evolutionary landscapes.",
+      "caveat": "Prior optimization need not find a global optimum, and no common quantitative potential is supplied for all levels.",
+      "sources": [
+        {
+          "section": "4.3",
+          "page": 24,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=24"
+        },
+        {
+          "section": "4.3",
+          "page": 25,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=25"
+        }
+      ]
+    },
+    {
+      "id": "QP17",
+      "kind": "philosophical_interpretation",
+      "statement": "Cultural symbols and social resources can support an Extended Window of the Present.",
+      "scope": "Conversation, note-taking and transactive memory in collective deliberation.",
+      "caveat": "This is not a measured enlargement of biological sensory integration or proof of a collective subject.",
+      "sources": [
+        {
+          "section": "4.4",
+          "page": 26,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=26"
+        },
+        {
+          "section": "4.4",
+          "page": 27,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=27"
+        }
+      ]
+    },
+    {
+      "id": "QP18",
+      "kind": "background_summary",
+      "statement": "The discussion contrasts iterated learning with grounded generative emergent communication.",
+      "scope": "Cultural transmission and representation formation.",
+      "caveat": "The source's criticism does not independently refute every iterated learning model.",
+      "sources": [
+        {
+          "section": "5.1",
+          "page": 27,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=27"
+        }
+      ]
+    },
+    {
+      "id": "QP19",
+      "kind": "background_summary",
+      "statement": "The paper cites earlier naming-game and human name-acceptance studies as support for narrower CPC-related mechanisms.",
+      "scope": "Prior work discussed by the authors.",
+      "caveat": "This guide did not independently audit these studies; they are not new quad-framework validation.",
+      "sources": [
+        {
+          "section": "5.1",
+          "page": 27,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=27"
+        },
+        {
+          "section": "5.1",
+          "page": 28,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=28"
+        }
+      ]
+    },
+    {
+      "id": "QP20",
+      "kind": "theoretical_proposal",
+      "statement": "Creativity is discussed as generation plus social evaluation, with possible interoceptive grounding.",
+      "scope": "Art, entertainment and evolving community standards.",
+      "caveat": "An integrated validated model of generation, emotion and collective evaluation is not provided.",
+      "sources": [
+        {
+          "section": "5.1",
+          "page": 28,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=28"
+        }
+      ]
+    },
+    {
+      "id": "QP21",
+      "kind": "open_question",
+      "statement": "The authors propose comparing groups with different robot morphologies to study symbol-system differences.",
+      "scope": "First explicit future prediction at the end of Section5.1.",
+      "caveat": "This is a proposed test, not a reported outcome.",
+      "sources": [
+        {
+          "section": "5.1",
+          "page": 28,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=28"
+        }
+      ]
+    },
+    {
+      "id": "QP22",
+      "kind": "open_question",
+      "statement": "The authors propose that agents allowed to renegotiate symbols adapt faster after environmental change than fixed-language agents.",
+      "scope": "Second explicit future prediction; adaptation-speed comparison.",
+      "caveat": "No experimental result for this comparison is reported in the paper.",
+      "sources": [
+        {
+          "section": "5.1",
+          "page": 28,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=28"
+        }
+      ]
+    },
+    {
+      "id": "QP23",
+      "kind": "theoretical_proposal",
+      "statement": "Language is considered as a collective world model relevant to embodied robotics.",
+      "scope": "Robotics foundation models and morphology-dependent linguistic affordances.",
+      "caveat": "No complete four-system robot or architecture ablation is delivered.",
+      "sources": [
+        {
+          "section": "5.3",
+          "page": 29,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=29"
+        },
+        {
+          "section": "5.3",
+          "page": 30,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=30"
+        }
+      ]
+    },
+    {
+      "id": "QP24",
+      "kind": "open_question",
+      "statement": "The conclusion calls for empirical validation, quantification of Systems0 and3, and integrated computational architectures.",
+      "scope": "Future work for embodied AI and human cognition.",
+      "caveat": "Future alignment and social-integration benefits are proposed directions, not demonstrated deployment outcomes.",
+      "sources": [
+        {
+          "section": "6",
+          "page": 30,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=30"
+        },
+        {
+          "section": "6",
+          "page": 31,
+          "url": "https://arxiv.org/pdf/2503.06138v3#page=31"
+        }
+      ]
+    }
+  ]
+}

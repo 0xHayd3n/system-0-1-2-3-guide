@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "For research claims, cite the six-author v3 paper in preferred-citation. This is an unofficial reading guide."
+title: "System 0/1/2/3 Reading Guide"
+authors:
+  - name: "0xHayd3n"
+    website: "https://github.com/0xHayd3n"
+version: "1.0.0"
+date-released: "2026-10-20"
+url: "https://github.com/0xHayd3n/system-0-1-2-3-guide"
+repository-code: "https://github.com/0xHayd3n/system-0-1-2-3-guide"
+license: "CC-BY-4.0"
+abstract: "Independent source-linked companion to arXiv:2503.06138v3, explaining the conceptual theory, CPC, philosophy, limitations and proposed tests. No empirical validation or implementation."
+keywords:
+  - reading-guide
+  - collective-intelligence
+  - embodied-cognition
+  - predictive-coding
+preferred-citation:
+  type: article
+  title: "System 0/1/2/3: Quad-process theory for multi-timescale embodied collective cognitive systems"
+  authors:
+    - given-names: "Tadahiro"
+      family-names: "Taniguchi"
+    - given-names: "Yasushi"
+      family-names: "Hirai"
+    - given-names: "Masahiro"
+      family-names: "Suzuki"
+    - given-names: "Shingo"
+      family-names: "Murata"
+    - given-names: "Takato"
+      family-names: "Horii"
+    - given-names: "Kazutoshi"
+      family-names: "Tanaka"
+  year: 2025
+  date-published: "2025-07-16"
+  journal: "arXiv"
+  version: "v3"
+  doi: "10.48550/arXiv.2503.06138"
+  url: "https://arxiv.org/abs/2503.06138v3"
